@@ -1,1 +1,3 @@
 welcome to ai and ml
+
+ai about automatiom
